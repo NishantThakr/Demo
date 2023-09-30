@@ -1,3 +1,4 @@
 # Demo
+
 this is my first git repository
-Autor - Nishant Thakre
+Autor - Nishant Thakre aka Nemo Kamado
